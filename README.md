@@ -10,7 +10,7 @@
 
 ## フィルター一覧
 
-[IPアドレスの特定阻止](https://github.com/GNUWood/ubo-filters/blob/main/GNUWood_IPGrab_block_filter.txt)  更新・2024/06/09 | [[購読]](https://github.com/GNUWood/ubo-filters/blob/main/GNUWood_IPGrab_block_filter.txt)
+[IPアドレスの特定阻止](https://github.com/GNUWood/ubo-filters/blob/main/GNUWood_IPGrab_block_filter.txt)  更新・2024/06/09 | [[購読]](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/GNUWood/ubo-filters/main/GNUWood_IPGrab_block_filter.txt&title=GNUWood%20IPGrab%20block%20filter)
 
 #### 注意事項
 
