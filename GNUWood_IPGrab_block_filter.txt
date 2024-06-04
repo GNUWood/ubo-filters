@@ -1,0 +1,63 @@
+[Adblock Plus 2.0]
+! Title: GNUWood IPGrab block filter
+! Description: A set of filters to prevent unwarranted IP address identification by third parties in advance
+! Homepage: https://github.com/GNUWood/ubo-filters
+! Version: 2024/06/04
+
+!-----------------------------------------------------------------------------------------------------------
+
+||tokutei.end2end.tech^$all
+
+||loggerip.web.app/?*$all
+
+||goo.by^$all
+
+||grabify.link^$all
+||location.cyou^$all
+||mymap.icu^$all
+||mymap.quest^$all
+||mapss.icu^$all
+||map-s.online^$all
+||crypto-o.click^$all
+||cryp-o.online^$all
+||customer.autos^$all
+||account.beauty^$all
+||bank.charity^$all
+||photospace.life^$all
+||mymassive.pics^$all
+||photovault.store^$all
+||imagehub.fun^$all
+||picturestash.mom^$all
+||clickthis.photo^$all
+||sharevault.cloud^$all
+||picshare.mom^$all
+||picshare.hair^$all
+||imagestash.pics^$all
+||xtube.chat^$all
+||myprivate.yachts^$all
+||screensnaps.top^$all
+||customersupport.click^$all
+||mypicparade.pics^$all
+||imagevault.cloud^$all
+||screenshare.pics^$all
+||myprivate.pics^$all
+||stopify.co^$all
+
+||iplogger.org^$all
+||wl.gl^$all
+||ed.tc^$all
+||bc.ax^$all
+||iplogger.com^$all
+||maper.info^$all
+||iplogger.ru^$all
+||iplogger.co^$all
+||2no.co^$all
+||yip.su^$all
+||iplogger.info^$all
+||ipgrabber.ru^$all
+||ipgraber.ru^$all
+||iplis.ru^$all
+||02ip.ru^$all
+||ezstat.ru^$all
+||iplog.co^$all
+||iplogger.cn^$all
