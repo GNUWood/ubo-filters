@@ -1,7 +1,7 @@
 # フィルタの追加方法
 
 1. [uBlock Origin公式サイト](https://ublockorigin.com/)からブラウザ拡張機能をダウンロードする。
-2. [ここ](abp:subscribe?location=https://raw.githubusercontent.com/GNUWood/ubo-filters/main/GNUWood_IPGrab_block_filter.txt&title=GNUWood IPGrab block filter)をクリックして表示される画面の右上から「購読」を選択する
+2. [ここ](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/GNUWood/ubo-filters/main/GNUWood_IPGrab_block_filter.txt&title=GNUWood IPGrab block filter)をクリックして表示される画面の右上から「購読」を選択する
 3. 以上の手順で特定のサイトのIPロガーはアクセス前にブロック通知されます。
 
 ## 注意事項
