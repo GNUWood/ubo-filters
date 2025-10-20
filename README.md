@@ -31,4 +31,3 @@
 
 - Discord: gnuwood
 - Bluesky: [wood.moe](https://bsky.app/profile/wood.moe)
-- GNU Social: [gnuwood](https://social.076.moe/gnuwood/)
